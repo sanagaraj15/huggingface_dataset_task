@@ -7,7 +7,7 @@ This repository contains multiple Natural Language Processing (NLP) projects imp
 All projects are implemented in Python and use real-world datasets from Hugging Face.
 
 
- Project Structure (Order Based on Execution Report)
+ Project Structure
 
 1.IMDB NER Project
 
